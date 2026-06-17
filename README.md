@@ -1,43 +1,49 @@
-<h1 align="center">👋 Hi, I'm Santra Richard</h1>
-<h3 align="center">📊 Data Analyst | ⚡ Embedded Systems Engineer | 💡 Data-Driven Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Santra Richard</h1>
+<h3 align="center">📊 Data Analyst | ⚡ Embedded Systems Engineer | 🚀 Building Real-World Solutions</h3>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/YOUR_USERNAME?tab=followers">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" />
   </a>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat&color=blue" />
+    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&color=yellow" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🧠 About Me  
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-🎓 Final Year **Electrical & Computer Engineering Student**  
-📊 Passionate about **Data Analytics, Visualization & Business Insights**  
-⚡ Build solutions combining **IoT + AI + Data Analytics**  
-🧠 Exploring **Machine Learning & Predictive Systems**  
-🎯 Target: **Data Analyst | Big 4 | Product-Based Companies**  
+- 🎓 Final Year **Electrical & Computer Engineering Student**  
+- 📊 Strong focus on **Data Analytics & Business Insights**  
+- ⚡ Hands-on with **IoT Systems (Arduino, ESP32)**  
+- 🧠 Exploring **Machine Learning & Predictive Analytics**  
+- 🎯 Target: **Data Analyst roles (Big 4 / Product Companies)**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,pandas,numpy,matplotlib,tableau,powerbi,arduino,git,github" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-Expert-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-Advanced-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-Dashboarding-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-Projects-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
@@ -45,45 +51,33 @@
 ## 📂 Featured Projects  
 
 ### 🛒 Customer Shopping Behavior Analysis  
-🔹 Analyzed **150K+ customer records**  
-🔹 Built **interactive Power BI dashboards**  
-🔹 Identified **revenue drivers & buying patterns**  
+- 📊 Analyzed **150K+ records** to uncover trends  
+- 📈 Built **Power BI dashboards** for insights  
+- 🧠 Delivered actionable business recommendations  
 
-<p>
-<a href="https://github.com/YOUR_USERNAME/customer-behavior-analysis">
-  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
+🔗 https://github.com/YOUR_USERNAME/customer-behavior-analysis  
 
 ---
 
 ### 🚗 Electric Vehicle Sales Analysis  
-🔹 Explored **EV adoption trends & regional insights**  
-🔹 Developed **Tableau dashboards**  
-🔹 Found **seasonal & growth patterns**  
+- 📊 Identified **regional & seasonal trends**  
+- 📈 Built **interactive Tableau dashboards**  
+- ⚡ Highlighted growth opportunities in EV market  
 
-<p>
-<a href="https://github.com/YOUR_USERNAME/ev-sales-analysis">
-  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
+🔗 https://github.com/YOUR_USERNAME/ev-sales-analysis  
 
 ---
 
 ### 🧤 EmotiGlove (Final Year Project)  
-🔹 Assistive tech for **hearing-impaired communication**  
-🔹 Converts **sign → speech using ESP32**  
-🔹 Emotion-aware & multilingual system  
+- ⚡ Wearable for **hearing-impaired communication**  
+- 🧠 Converts **sign language → speech**  
+- 🌍 Multilingual & emotion-aware system  
 
-<p>
-<a href="https://github.com/YOUR_USERNAME/emotiglove">
-  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
+🔗 https://github.com/YOUR_USERNAME/emotiglove  
 
 ---
 
-## 📊 GitHub Analytics  
+## 📈 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -91,17 +85,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Highlights  
+## 🏆 Achievements & Focus  
 
-- 📈 Built projects analyzing **100K+ datasets**  
-- ⚡ Developed **IoT-based smart systems using ESP32**  
-- 📊 Created **business-focused dashboards (Power BI & Tableau)**  
-- 💡 Focused on **real-world impact projects**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Advanced-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT%20Projects-Hands--On-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-orange?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -118,22 +113,12 @@
 
 ---
 
-## ⚡ What Sets Me Apart  
+## 💡 What Sets Me Apart  
 
-✔️ Blend of **Data Analytics + Embedded Systems** (rare skill combo)  
-✔️ Focus on **insights, not just dashboards**  
-✔️ Strong foundation in **engineering + real-world problem solving**  
-
----
-
-## 🔥 Current Focus  
-
-- 📊 Advanced Data Analytics Projects  
-- 🤖 Machine Learning Applications  
-- 🏆 Building a **high-impact portfolio for recruiters**  
+✔️ I focus on **business impact, not just dashboards**  
+✔️ I combine **hardware + analytics (rare skillset)**  
+✔️ I build **end-to-end projects (data → insight → decision)**  
 
 ---
 
-<p align="center">
-  ⭐ If you find my work interesting, consider following!
-</p>
+<p align="center">🔥 Open to internships & full-time opportunities</p>
