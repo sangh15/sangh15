@@ -163,14 +163,12 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 
 <div align="center">
 
-## 💬 Quote
 
 *"Data is only valuable when it tells a story that drives better decisions."*
 
 
 </div>
 
----
 
 <div align="center">
 
