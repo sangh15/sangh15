@@ -9,16 +9,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=%24+whoami;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Business+Insights"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Actionable+Insights;Committed+to+Continuous+Learning"/>
 
 </div>
 
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization;Transforming+Data+into+Actionable+Insights)
-
-</div>
 
 ---
 
