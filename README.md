@@ -4,8 +4,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Santra%20Anna%20Richard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20AI%20I Explorer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=270&color=0:064E3B,50:059669,100:10B981&text=Sinta%20Maria%20Richard&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20AI%20Learner&descAlignY=60"/>
 
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=%24+whoami;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Business+Insights"/>
+
+</div>
 </div>
 
 <div align="center">
