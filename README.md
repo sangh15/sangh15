@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/B.Tech-Electrical%20%26%20Computer%20Engineering-0F766E?style=for-the-badge)
 ![](https://img.shields.io/badge/Fresher-Open%20to%20Work-0891B2?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Kerala,%20India-14B8A6?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=sangh15&style=for-the-badge&color=06B6D4)
 
 </div>
 
