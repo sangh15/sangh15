@@ -146,33 +146,6 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 ---
 
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SINTA-3535&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SINTA-3535&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=SINTA-3535&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SINTA-3535&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
@@ -184,44 +157,12 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 
 ---
 
-# 📅 GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/0891B2/SINTA-3535" alt="GitHub Contribution Chart"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Note:** This animation requires a GitHub Actions workflow to generate automatically.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SINTA-3535/SINTA-3535/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- 📊 Build 20+ Data Analytics Projects
-- 📈 Master Power BI & Advanced SQL
-- 🐍 Become highly proficient in Python for Analytics
-- 🤖 Learn practical Machine Learning for business problems
-- ☁️ Explore Microsoft Fabric and Azure Data Services
-- 💼 Secure a Data Analyst role
-
----
 
 # 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:sintamariarichard@gmail.com">
+<a href="mailto:santraannarichard@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
@@ -231,13 +172,13 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 
 <a href="https://www.linkedin.com/in/sinta-maria-richard-61132b255/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.linkedin.com/in/santra-anna-richard-3360b4255/"/>
 
 </a>
 
 &nbsp;
 
-<a href="https://github.com/SINTA-3535">
+<a href="https://github.com/sangh15">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -253,9 +194,6 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 
 *"Data is only valuable when it tells a story that drives better decisions."*
 
-<br>
-
-⭐ **If you like my projects, consider giving them a star!** ⭐
 
 </div>
 
