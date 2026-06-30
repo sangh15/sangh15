@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,40:0F766E,70:0891B2,100:06B6D4&text=Santra%20Anna%20Richard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=58"/>
 </div>
 
-<div align="center">
+<div align="center"> 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Actionable+Insights;Committed+to+Continuous+Learning"/>
 
