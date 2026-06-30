@@ -13,6 +13,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=%24+whoami;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Business+Insights"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=%24+whoami;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Business+Insights"/>
+
+</div>
 </div>
 
 <div align="center">
