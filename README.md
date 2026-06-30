@@ -74,11 +74,16 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 
 <div align="center">
 
-| Analytics | Programming | Visualization | Databases |
-|:---------:|:-----------:|:-------------:|:---------:|
-| Python | HTML5 | Power BI | MySQL |
-| SQL | CSS3 | Tableau | SQL |
-| Excel | Git | Matplotlib | |
+| Category | Skills |
+|-----------|--------|
+| Data Analytics | Python, SQL, Excel, Power BI, Tableau |
+| Machine Learning | Regression, Classification, Feature Engineering |
+| Programming | Python, HTML5, CSS3 |
+| Databases | MySQL |
+| Visualization | Power BI, Tableau, Matplotlib |
+| Libraries | Pandas, NumPy, Scikit-learn |
+| Version Control | Git, GitHub |
+| Soft Skills | Communication, Teamwork, Problem Solving, Analytical Thinking |
 
 </div>
 
