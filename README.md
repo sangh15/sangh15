@@ -1,44 +1,71 @@
-<div align="center">
+# 👋 YOUR NAME
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0B3C49,100:14B8A6&text=YOUR%20NAME&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20|%20Electrical%20&%20Computer%20Engineer%20|%20AI%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+> Replace placeholders with your information.
 
-</div>
+## Animated Banner
 
-<div align="center">
+``` html
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=0:0B3C49,100:14B8A6&text=YOUR%20NAME&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Data%20Analyst%20|%20Electrical%20%26%20Computer%20Engineer"/>
+</p>
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=%24+whoami;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Building+Data-Driven+Solutions;Always+Learning+New+Technologies"/>
+## Typing SVG
 
-</div>
+``` html
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=14B8A6&center=true&width=900&lines=%24+whoami;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Always+Learning"/>
+```
 
+## About
 
-<div align="center">
+``` bash
+Name: YOUR NAME
+GitHub: YOUR_USERNAME
+Role: Data Analyst
+Education: B.E. Electrical & Computer Engineering
+Stack: Python | SQL | Power BI | Tableau | Excel
+Open To: Data Analyst | BI Developer | Business Analyst
+```
 
-![](https://img.shields.io/badge/Degree-B.E.%20Electrical%20&%20Computer%20Engineering-14B8A6?style=flat-square)
+## Tech Stack
 
-![](https://img.shields.io/badge/University-YOUR%20UNIVERSITY-14B8A6?style=flat-square)
+-   Python
+-   SQL
+-   Power BI
+-   Tableau
+-   Excel
+-   Git
+-   GitHub
+-   VS Code
+-   Jupyter
 
-![](https://img.shields.io/badge/Location-YOUR%20LOCATION-14B8A6?style=flat-square)
+## Featured Projects
 
-</div>
+### Electric Vehicle Market Analysis
 
+-   Stack: Python, SQL, Tableau
+-   Dataset: 150K+ records
 
+### Customer Shopping Behavior Analysis
 
-<div align="center">
+-   Stack: Python, PostgreSQL, SQL, Power BI
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
-</a>
+## GitHub Analytics
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Replace `YOUR_USERNAME` in these URLs:
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+-   GitHub Readme Stats
+-   Streak Stats
+-   Top Languages
+-   Activity Graph
+-   Profile Summary Cards
+-   Trophy
+-   Snake Animation
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## Connect
 
-</div>
+-   LinkedIn: YOUR_LINKEDIN
+-   Portfolio: YOUR_PORTFOLIO
+-   Email: YOUR_EMAIL
+
+> "Turning data into insights, and insights into impact."
