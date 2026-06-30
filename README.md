@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:0F766E,70:0891B2,100:06B6D4&text=Santra%20Anna%20Richard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&20AI%20Explorer%descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:0F766E,70:0891B2,100:06B6D4&text=Santra%20Anna%20Richard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&20AI%20Explorer&descAlignY=58"/>
 
 </div>
 
