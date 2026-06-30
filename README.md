@@ -169,7 +169,6 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 
 </div>
 
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:0F766E,70:0891B2,100:06B6D4&height=140&section=footer"/>
