@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Business+Intelligence+Enthusiast;Data+Visualization;Turning+Data+into+Insights)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Business+Intelligence+Enthusiast;Data+Visualization;Turning+Data+into+Insights)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ![](https://img.shields.io/badge/Location-Kerala,%20India-14B8A6?style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=SINTA-3535&style=for-the-badge&color=06B6D4)
+![](https://komarev.com/ghpvc/?username=sangh15&style=for-the-badge&color=06B6D4)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a href="https://github.com/SINTA-3535">
+<a href="https://github.com/sangh15">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -40,7 +40,7 @@
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/sinta-maria-richard-61132b255/">
+<a href="https://www.linkedin.com/in/santra-anna-richard-3360b4255/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -48,7 +48,7 @@
 
 &nbsp;
 
-<a href="mailto:sintamariarichard@gmail.com">
+<a href="mailto:santraannarichard@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
@@ -58,9 +58,9 @@
 
 ---
 
-# 👋 Hello, I'm Sinta Maria Richard
+# 👋 Hello, I'm Santra Anna Richard
 
-I'm a recent **B.Tech graduate in Electrical and Computer Engineering** with a strong interest in **Data Analytics** and **Business Intelligence**.
+I'm a recent B.Tech graduate in Electrical and Computer Engineering with a strong interest in **Data Analytics** and **Business Intelligence**.
 
 I enjoy working with data to uncover trends, build interactive dashboards, and solve business problems using analytical thinking. Through hands-on projects, I have developed practical experience in **Python, SQL, Excel, Power BI, Tableau, and Machine Learning**.
 
@@ -145,19 +145,3 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 
 ---
 
-## Professional Skills
-
-| Skill | Level |
-|-------|:-----:|
-| Python | ⭐⭐⭐⭐☆ |
-| SQL | ⭐⭐⭐⭐☆ |
-| Power BI | ⭐⭐⭐⭐☆ |
-| Excel | ⭐⭐⭐⭐☆ |
-| Tableau | ⭐⭐⭐⭐☆ |
-| Machine Learning | ⭐⭐⭐☆☆ |
-| Data Visualization | ⭐⭐⭐⭐⭐ |
-| Business Intelligence | ⭐⭐⭐⭐☆ |
-
----
-
-# 📊 AI & Data Analytics Expertise
