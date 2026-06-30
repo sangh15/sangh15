@@ -171,9 +171,7 @@ My goal is to begin my career as a **Data Analyst**, helping organizations trans
 &nbsp;
 
 <a href="https://www.linkedin.com/in/santra-anna-richard-3360b4255/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
