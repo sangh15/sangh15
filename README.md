@@ -49,7 +49,7 @@ I'm a recent B.Tech graduate in Electrical and Computer Engineering with a stron
 
 I enjoy working with data to uncover trends, build interactive dashboards, and solve business problems using analytical thinking. Through hands-on projects, I have developed practical experience in **Python, SQL, Excel, Power BI, Tableau, and Machine Learning**.
 
-I'm actively seeking opportunities where I can contribute to data-driven decision-making while continuing to grow as a Data Analyst.
+I'm committed to continuous learning and eager to contribute my analytical mindset, technical skills, and enthusiasm for data to create impactful, data-driven solutions.
 
 ---
 
